@@ -1,0 +1,660 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2DAB4A-F6DF-48EC-8AA8-4E269CBC3700}|..\\GridRunnerProgram\\GridRunnerProgram.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\gridrunnerprogram\\worldparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CF2A57-F0F3-4454-881A-AB70999C0EE3}|Solution Items{63CF2A57-F0F3-4454-881A-AB70999C0EE3}|C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\mso_3\\uiobjects\\optionsbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|solutionrelative:uiobjects\\optionsbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\mso_3\\uimediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|solutionrelative:uimediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2DAB4A-F6DF-48EC-8AA8-4E269CBC3700}|..\\GridRunnerProgram\\GridRunnerProgram.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\gridrunnerprogram\\codeparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2DAB4A-F6DF-48EC-8AA8-4E269CBC3700}|..\\GridRunnerProgram\\GridRunnerProgram.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\gridrunnerprogram\\emulation\\conditional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2DAB4A-F6DF-48EC-8AA8-4E269CBC3700}|..\\GridRunnerProgram\\GridRunnerProgram.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\gridrunnerprogram\\gamestate\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\mso_3\\uiobjects\\gridrunnerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|solutionrelative:uiobjects\\gridrunnerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2DAB4A-F6DF-48EC-8AA8-4E269CBC3700}|..\\GridRunnerProgram\\GridRunnerProgram.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\gridrunnerprogram\\emulation\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2DAB4A-F6DF-48EC-8AA8-4E269CBC3700}|..\\GridRunnerProgram\\GridRunnerProgram.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\gridrunnerprogram\\gamestate\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2DAB4A-F6DF-48EC-8AA8-4E269CBC3700}|..\\GridRunnerProgram\\GridRunnerProgram.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\gridrunnerprogram\\mode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2DAB4A-F6DF-48EC-8AA8-4E269CBC3700}|..\\GridRunnerProgram\\GridRunnerProgram.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\gridrunnerprogram\\gridrunnerprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2DAB4A-F6DF-48EC-8AA8-4E269CBC3700}|..\\GridRunnerProgram\\GridRunnerProgram.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\gridrunnerprogram\\gamestate\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2DAB4A-F6DF-48EC-8AA8-4E269CBC3700}|..\\GridRunnerProgram\\GridRunnerProgram.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\gridrunnerprogram\\gamestate\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2DAB4A-F6DF-48EC-8AA8-4E269CBC3700}|..\\GridRunnerProgram\\GridRunnerProgram.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\gridrunnerprogram\\emulation\\runerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962F247C-525B-4369-96CF-49BA0C0C3050}|..\\GridRunnerTests\\GridRunnerProgramTests.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\gridrunnertests\\testcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\mso_3\\uiobjects\\programeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|solutionrelative:uiobjects\\programeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\mso_3\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|solutionrelative:filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\mso_3\\uiobjects\\outputview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|solutionrelative:uiobjects\\outputview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\mso_3\\uiobjects\\assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|solutionrelative:uiobjects\\assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962F247C-525B-4369-96CF-49BA0C0C3050}|..\\GridRunnerTests\\GridRunnerProgramTests.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\gridrunnertests\\testdirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962F247C-525B-4369-96CF-49BA0C0C3050}|..\\GridRunnerTests\\GridRunnerProgramTests.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\gridrunnertests\\testgridrunnerprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962F247C-525B-4369-96CF-49BA0C0C3050}|..\\GridRunnerTests\\GridRunnerProgramTests.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\gridrunnertests\\testmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962F247C-525B-4369-96CF-49BA0C0C3050}|..\\GridRunnerTests\\GridRunnerProgramTests.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\gridrunnertests\\testposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962F247C-525B-4369-96CF-49BA0C0C3050}|..\\GridRunnerTests\\GridRunnerProgramTests.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\gridrunnertests\\testworldparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\mso_3\\domainmodels\\domainoverview.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|solutionrelative:domainmodels\\domainoverview.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\mso_3\\domainmodels\\griddomain.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|solutionrelative:domainmodels\\griddomain.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\mso_3\\assumptions.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|solutionrelative:assumptions.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\Command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\mso_3\\mso_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|solutionrelative:mso_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|c:\\users\\lukeh\\#data\\unie\\3e_jaar\\1mso\\p3\\codebase\\mso_3\\uiobjects\\formsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91EB9F3-1370-42B1-8156-9AAF3B134ECD}|MSO_3.csproj|solutionrelative:uiobjects\\formsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\Mode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerTests\\TestGridRunnerProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\WorldParser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\World.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\Conditional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\State.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\MSO_3Tests\\TestUIMediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\GridRunnerProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerTests\\GridRunnerProgramTests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\RunError.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorldParser.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\WorldParser.cs",
+              "RelativeDocumentMoniker": "..\\GridRunnerProgram\\WorldParser.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\WorldParser.cs",
+              "RelativeToolTip": "..\\GridRunnerProgram\\WorldParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:45:07.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\README.txt",
+              "RelativeDocumentMoniker": "..\\README.txt",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\README.txt",
+              "RelativeToolTip": "..\\README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-30T10:31:57.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\GameState\\State.cs",
+              "RelativeDocumentMoniker": "..\\GridRunnerProgram\\GameState\\State.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\GameState\\State.cs",
+              "RelativeToolTip": "..\\GridRunnerProgram\\GameState\\State.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:27:01.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\GameState\\World.cs",
+              "RelativeDocumentMoniker": "..\\GridRunnerProgram\\GameState\\World.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\GameState\\World.cs",
+              "RelativeToolTip": "..\\GridRunnerProgram\\GameState\\World.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:28:46.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GridRunnerView.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\UIObjects\\GridRunnerView.cs",
+              "RelativeDocumentMoniker": "UIObjects\\GridRunnerView.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\UIObjects\\GridRunnerView.cs",
+              "RelativeToolTip": "UIObjects\\GridRunnerView.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA/wBwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:45:19.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CodeParser.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\CodeParser.cs",
+              "RelativeDocumentMoniker": "..\\GridRunnerProgram\\CodeParser.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\CodeParser.cs",
+              "RelativeToolTip": "..\\GridRunnerProgram\\CodeParser.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAhwGwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:27:42.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\Emulation\\Command.cs",
+              "RelativeDocumentMoniker": "..\\GridRunnerProgram\\Emulation\\Command.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\Emulation\\Command.cs",
+              "RelativeToolTip": "..\\GridRunnerProgram\\Emulation\\Command.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAPAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:27:15.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIMediator.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\UIMediator.cs",
+              "RelativeDocumentMoniker": "UIMediator.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\UIMediator.cs",
+              "RelativeToolTip": "UIMediator.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA0wGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:28:29.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OptionsBar.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\UIObjects\\OptionsBar.cs",
+              "RelativeDocumentMoniker": "UIObjects\\OptionsBar.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\UIObjects\\OptionsBar.cs",
+              "RelativeToolTip": "UIObjects\\OptionsBar.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwGAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:44:47.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GridRunnerProgram.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\GridRunnerProgram.cs",
+              "RelativeDocumentMoniker": "..\\GridRunnerProgram\\GridRunnerProgram.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\GridRunnerProgram.cs",
+              "RelativeToolTip": "..\\GridRunnerProgram\\GridRunnerProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:43:16.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mode.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\Mode.cs",
+              "RelativeDocumentMoniker": "..\\GridRunnerProgram\\Mode.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\Mode.cs",
+              "RelativeToolTip": "..\\GridRunnerProgram\\Mode.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:49:46.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conditional.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\Emulation\\Conditional.cs",
+              "RelativeDocumentMoniker": "..\\GridRunnerProgram\\Emulation\\Conditional.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\Emulation\\Conditional.cs",
+              "RelativeToolTip": "..\\GridRunnerProgram\\Emulation\\Conditional.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:27:26.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\GameState\\Position.cs",
+              "RelativeDocumentMoniker": "..\\GridRunnerProgram\\GameState\\Position.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\GameState\\Position.cs",
+              "RelativeToolTip": "..\\GridRunnerProgram\\GameState\\Position.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:43:36.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\GameState\\Direction.cs",
+              "RelativeDocumentMoniker": "..\\GridRunnerProgram\\GameState\\Direction.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\GameState\\Direction.cs",
+              "RelativeToolTip": "..\\GridRunnerProgram\\GameState\\Direction.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:28:29.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RunError.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\Emulation\\RunError.cs",
+              "RelativeDocumentMoniker": "..\\GridRunnerProgram\\Emulation\\RunError.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerProgram\\Emulation\\RunError.cs",
+              "RelativeToolTip": "..\\GridRunnerProgram\\Emulation\\RunError.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:29:13.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestCommand.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerTests\\TestCommand.cs",
+              "RelativeDocumentMoniker": "..\\GridRunnerTests\\TestCommand.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerTests\\TestCommand.cs",
+              "RelativeToolTip": "..\\GridRunnerTests\\TestCommand.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:41:36.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\FileManager.cs",
+              "RelativeDocumentMoniker": "FileManager.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\FileManager.cs",
+              "RelativeToolTip": "FileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:59:11.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OutputView.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\UIObjects\\OutputView.cs",
+              "RelativeDocumentMoniker": "UIObjects\\OutputView.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\UIObjects\\OutputView.cs",
+              "RelativeToolTip": "UIObjects\\OutputView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:54:13.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProgramEditor.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\UIObjects\\ProgramEditor.cs",
+              "RelativeDocumentMoniker": "UIObjects\\ProgramEditor.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\UIObjects\\ProgramEditor.cs",
+              "RelativeToolTip": "UIObjects\\ProgramEditor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:39:40.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AssetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\UIObjects\\AssetRepository.cs",
+              "RelativeDocumentMoniker": "UIObjects\\AssetRepository.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\UIObjects\\AssetRepository.cs",
+              "RelativeToolTip": "UIObjects\\AssetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:04:31.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TestDirection.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerTests\\TestDirection.cs",
+              "RelativeDocumentMoniker": "..\\GridRunnerTests\\TestDirection.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerTests\\TestDirection.cs",
+              "RelativeToolTip": "..\\GridRunnerTests\\TestDirection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:33:47.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TestGridRunnerProgram.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerTests\\TestGridRunnerProgram.cs",
+              "RelativeDocumentMoniker": "..\\GridRunnerTests\\TestGridRunnerProgram.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerTests\\TestGridRunnerProgram.cs",
+              "RelativeToolTip": "..\\GridRunnerTests\\TestGridRunnerProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:33:42.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TestMode.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerTests\\TestMode.cs",
+              "RelativeDocumentMoniker": "..\\GridRunnerTests\\TestMode.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerTests\\TestMode.cs",
+              "RelativeToolTip": "..\\GridRunnerTests\\TestMode.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:33:32.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TestPosition.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerTests\\TestPosition.cs",
+              "RelativeDocumentMoniker": "..\\GridRunnerTests\\TestPosition.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerTests\\TestPosition.cs",
+              "RelativeToolTip": "..\\GridRunnerTests\\TestPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:33:15.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TestWorldParser.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerTests\\TestWorldParser.cs",
+              "RelativeDocumentMoniker": "..\\GridRunnerTests\\TestWorldParser.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\GridRunnerTests\\TestWorldParser.cs",
+              "RelativeToolTip": "..\\GridRunnerTests\\TestWorldParser.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:32:44.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Assumptions.txt",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\Assumptions.txt",
+              "RelativeDocumentMoniker": "Assumptions.txt",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\Assumptions.txt",
+              "RelativeToolTip": "Assumptions.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-08T20:41:02.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GridDomain.txt",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\DomainModels\\GridDomain.txt",
+              "RelativeDocumentMoniker": "DomainModels\\GridDomain.txt",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\DomainModels\\GridDomain.txt",
+              "RelativeToolTip": "DomainModels\\GridDomain.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-08T20:40:20.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DomainOverview.txt",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\DomainModels\\DomainOverview.txt",
+              "RelativeDocumentMoniker": "DomainModels\\DomainOverview.txt",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\DomainModels\\DomainOverview.txt",
+              "RelativeToolTip": "DomainModels\\DomainOverview.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-08T20:39:45.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Mode.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\Mode.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerProgram\\Mode.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\Mode.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerProgram\\Mode.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:12:22.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TestGridRunnerProgram.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerTests\\TestGridRunnerProgram.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerTests\\TestGridRunnerProgram.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerTests\\TestGridRunnerProgram.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerTests\\TestGridRunnerProgram.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:04:54.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\Command.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerProgram\\Command.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\Command.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerProgram\\Command.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:09:49.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WorldParser.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\WorldParser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerProgram\\WorldParser.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\WorldParser.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerProgram\\WorldParser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:03:40.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\World.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerProgram\\World.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\World.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerProgram\\World.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:03:38.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Conditional.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\Conditional.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerProgram\\Conditional.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\Conditional.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerProgram\\Conditional.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:03:19.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\State.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerProgram\\State.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\State.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerProgram\\State.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:49:18.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TestUIMediator.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\MSO_3Tests\\TestUIMediator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\MSO_3Tests\\TestUIMediator.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\MSO_3Tests\\TestUIMediator.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\MSO_3Tests\\TestUIMediator.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:23:44.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MSO_3.csproj",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\MSO_3.csproj",
+              "RelativeDocumentMoniker": "MSO_3.csproj",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\MSO_3.csproj",
+              "RelativeToolTip": "MSO_3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T19:20:37.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GridRunnerProgram.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\GridRunnerProgram.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerProgram\\GridRunnerProgram.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\GridRunnerProgram.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerProgram\\GridRunnerProgram.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:19:16.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GridRunnerProgramTests.csproj",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerTests\\GridRunnerProgramTests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerTests\\GridRunnerProgramTests.csproj",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerTests\\GridRunnerProgramTests.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerTests\\GridRunnerProgramTests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T19:09:58.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RunError.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\RunError.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerProgram\\RunError.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\MSO\\P3\\CodeBase\\GridRunnerProgram\\RunError.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSO\\P3\\CodeBase\\GridRunnerProgram\\RunError.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:11:36.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormsApp.cs",
+              "DocumentMoniker": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\UIObjects\\FormsApp.cs",
+              "RelativeDocumentMoniker": "UIObjects\\FormsApp.cs",
+              "ToolTip": "C:\\Users\\lukeh\\#data\\unie\\3e_jaar\\1MSO\\P3\\CodeBase\\MSO_3\\UIObjects\\FormsApp.cs",
+              "RelativeToolTip": "UIObjects\\FormsApp.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T23:37:00.509Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

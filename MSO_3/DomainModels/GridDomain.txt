@@ -1,0 +1,37 @@
+﻿---
+title: Domain model
+---
+classDiagram
+
+
+
+
+
+GridRunner -- State : Has
+GridRunner -- WorldParser : Uses
+GridRunner -- CodeParser : Uses
+GridRunner -- Command : Might have entry point
+State -- RunError : Might have
+RunError -- NoCodeError : Might be
+RunError -- CollisionError : Might be
+RunError -- LoopError : Might be
+State -- World : Has
+
+State -- Mode : Has
+Mode -- ShapeExcercise : Might be
+Mode -- PathfindingExcercise : Might be
+
+Command -- MoveCommand : Might be
+Command -- RepeatUntilCommand : Might be
+
+
+Command -- IfCommand : Might be
+Command -- TurnCommand : Might be
+Command -- RepeatCommand : Might be
+
+
+Command -- Command : Might have next Command
+
+RepeatUntilCommand -- Condition : has
+IfCommand -- Condition : has
+

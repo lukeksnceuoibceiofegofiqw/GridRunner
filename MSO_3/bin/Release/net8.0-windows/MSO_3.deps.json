@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MSO_3/1.0.0": {
+        "dependencies": {
+          "GridRunnerProgram": "1.0.0"
+        },
+        "runtime": {
+          "MSO_3.dll": {}
+        }
+      },
+      "GridRunnerProgram/1.0.0": {
+        "runtime": {
+          "GridRunnerProgram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MSO_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GridRunnerProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

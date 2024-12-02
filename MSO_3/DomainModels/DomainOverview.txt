@@ -1,0 +1,17 @@
+---
+title: Domain model
+---
+classDiagram
+
+Program -- FormsApp : has
+
+FormsApp -- GridRunnerView : controls / draws
+FormsApp -- OptionsBar : controls / draws
+
+UIMediator -- FileManager : uses
+UIMediator -- GridRunner : uses
+UIMediator -- ProgramEditor : sets/gets code
+
+
+GridRunnerView -- UIMediator : gets gridrunner state from
+OptionsBar -- UIMediator : notifies

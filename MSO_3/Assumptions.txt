@@ -1,0 +1,10 @@
+﻿
+
+In a pathfinding excersize no start is given and the character start at the topleft corner facing east
+
+In a shape excersize the character starts facing east and the end orentation does not matter.
+
+a given world is always a rectangle
+
+
+

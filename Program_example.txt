@@ -1,0 +1,8 @@
+RepeatUntil SpaceAhead
+	Turn right
+Move 1
+RepeatUntil OnTarget
+	Turn right
+	RepeatUntil SpaceAhead
+		Turn left
+	Move 1
